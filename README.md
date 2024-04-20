@@ -2,7 +2,7 @@
 Assignment on Multi Threading
 
 # Time Taken(s) vs Number of Threads Table
-<img src="time_vs_threads_table.PNG" width="80%" height="50%">
+<img src="time_vs_threads_table.PNG" width="60%" height="10%" >
 
 # Time Taken(s) vs Number of Threads Graph
 <img src="time_vs_threads_graph.PNG" width="90%" height="80%">
